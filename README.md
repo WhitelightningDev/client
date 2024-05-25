@@ -1,10 +1,3 @@
-Here's a README.md file that includes instructions on how to run both the server-side and front-end of your application:
-
-```markdown
-# Project Name
-
-Description of the project.
-
 ## Server Side
 
 ### Requirements
@@ -74,5 +67,3 @@ Description of the project.
    ```
 
 ```
-
-Replace "Project Name" and "Description of the project" with appropriate values for your project. These instructions assume that your server is located in a directory named "server" and your frontend is located in a directory named "client". If your project structure is different, adjust the instructions accordingly.
