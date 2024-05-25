@@ -7,7 +7,7 @@ import {
 import './App.css';
 
 // Replace 'YOUR_PERSONAL_ACCESS_TOKEN' with your actual GitHub personal access token
-const token = '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';
+const token = '';
 
 const axiosInstance = axios.create({
   headers: {
